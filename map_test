@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "中視"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5174686908726,
+          23.913322272785837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "台視"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51904582977294,
+          23.91501902312996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "華視"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5192925930023,
+          23.915921332156703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "公視"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51989340782164,
+          23.916774596852196
+        ]
+      }
+    }
+  ]
+}
